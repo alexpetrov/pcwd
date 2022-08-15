@@ -31,3 +31,21 @@
 
 #+ATTR_REVEAL: :frag roll-in
 По английски *Person Concerned Work Decomposition (PСWD)*
+
+* About me
+
+#+ATTR_REVEAL: :frag roll-in
+*Alexander Petrov* (a.k.a Lysenko)
+
+#+ATTR_REVEAL: :frag roll-in
+*Programmer* | *Sing, Play Sax & Guitar* | *#Clojure, #Emacs*
+
+#+ATTR_REVEAL: :frag roll-in
+Старший разработчик *Clojure* Центра продуктов Дозор в Ростелеком Солар
+
+#+ATTR_REVEAL: :frag roll-in
+*2015 - 2022*
+Старший *Ruby* / *Rails* / *Erlang* Разработчик в FunBox
+
+#+ATTR_REVEAL: :frag roll-in
+*2006 - 2014* Enterprise *Java* Developer / Trainer / Architect / Team Leader
