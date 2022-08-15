@@ -38,7 +38,7 @@
 *Alexander Petrov* (a.k.a Lysenko)
 
 #+ATTR_REVEAL: :frag roll-in
-*Programmer* | *Sing, Play Sax & Guitar* | *#Clojure, #Emacs*
+*Pragmatic Programmer* | *Sing, Play Sax & Guitar* | *#Clojure, #Emacs*
 
 #+ATTR_REVEAL: :frag roll-in
 Старший разработчик *Clojure* Центра продуктов Дозор в Ростелеком Солар
@@ -49,3 +49,25 @@
 
 #+ATTR_REVEAL: :frag roll-in
 *2006 - 2014* Enterprise *Java* Developer / Trainer / Architect / Team Leader
+
+* Поток и Смётка
+
+#+ATTR_REVEAL: :frag roll-in
+/Быстрый (неточный, незатратный)/ и /медленный (аналитический, энергозатратный)/ механизмы работы мозга
+
+#+ATTR_REVEAL: :frag roll-in
+Исключение - состояние *Потока*
+
+#+ATTR_REVEAL: :frag roll-in
+В состоянии *Потока* открывается доступ к *Смётке*
+
+#+ATTR_REVEAL: :frag roll-in
+*Смётка* - (в специальном смысле) способность ментально пердставлять функционирование конкретного или абстрактного механизма и находить решения для его исправления или усовершенствования
+
+* Неконструктивные убеждения о людях
+
+* Закон Паркинсона
+
+* От #микротаскинга до #NoEstimates
+
+
