@@ -50,6 +50,14 @@
 #+ATTR_REVEAL: :frag roll-in
 *2006 - 2014* Enterprise *Java* Developer / Trainer / Architect / Team Leader
 
+* Структура
+
+#+ATTR_REVEAL: :frag roll-in
+Мотивация и постановка проблемы
+
+#+ATTR_REVEAL: :frag roll-in
+Человечная декомпозиция
+
 * Состояние потока
 
 #+ATTR_REVEAL: :frag roll-in
