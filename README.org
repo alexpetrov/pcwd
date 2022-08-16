@@ -171,5 +171,16 @@
 Кто нам "мешает", тот нам поможет!
 
 #+ATTR_REVEAL: :frag roll-in
-Даже если мы могли бы следовать идее #NoEstimates, декомпозировать работу полезно для фокусировки мыслительного процесса
+Слона нужно есть по частям (народная мудрость)
 
+#+ATTR_REVEAL: :frag roll-in
+Даже если кажется, что это Моська (от себя)
+
+#+ATTR_REVEAL: :frag roll-in
+Декомпозировать работу полезно для фокусировки мыслительного процесса.
+
+* Спасибо за внимание
+
+#+BEGIN_EXPORT html
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+#+END_EXPORT
