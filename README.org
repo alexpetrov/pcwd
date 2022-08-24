@@ -33,8 +33,7 @@
 /Старший разработчик Clojure/ Центра продуктов Дозор в Ростелеком Солар
 
 #+ATTR_REVEAL: :frag roll-in
-*2015 - 2022*
-/Старший разработчик Ruby / Rails / Erlang/ в FunBox
+*2015 - 2022* /Старший разработчик Ruby / Rails / Erlang/ в FunBox
 
 #+ATTR_REVEAL: :frag roll-in
 *2006 - 2014* /Enterprise Java Developer / Trainer / Architect / Team Leader / Lecturer/
