@@ -27,7 +27,7 @@
 *Alexander Petrov* (a.k.a Lysenko)
 
 #+ATTR_REVEAL: :frag roll-in
-*Pragmatic Programmer* | *Sing, Play Sax & Guitar* | *#Clojure #Emacs #Datomic #DDD #TDD #CQRS #CleanCode #CleanArchitecture* 
+*Pragmatic Programmer* | *Sing, Play Sax & Guitar* | *#Emacs #Clojure #Datomic #DDD #TDD #CleanArchitecture*
 
 #+ATTR_REVEAL: :frag roll-in
 /Старший разработчик Clojure/ Центра продуктов Дозор в Ростелеком Солар
@@ -41,7 +41,7 @@
 ** Структура
 
 #+ATTR_REVEAL: :frag roll-in
-- История про /программиста-перфекциониста/ его и /тимлида-оптимиста/ (Отсылка к /Радио-Т/)
+- История про /программиста-перфекциониста/ и /тимлида/ его - /оптимиста/ (Отсылка к /Радио-Т/ и Пушкину А.С.)
 
 #+ATTR_REVEAL: :frag roll-in
 - Состояние "Потока", в чем его ценность и как создать условия для его возникновения?
